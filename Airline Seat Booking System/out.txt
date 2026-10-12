@@ -1,0 +1,8 @@
+======================================
+ AIRLINE CONCURRENT SEAT BOOKING SYSTEM
+======================================
+
+Starting local UI server at http://127.0.0.1:8080
+Open this URL in your browser to book seats using the form.
+The server will keep running until you stop the process (Ctrl+C).
+Failed to start localhost web UI: Address already in use: bind
